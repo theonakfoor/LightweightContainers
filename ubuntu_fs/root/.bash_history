@@ -25,3 +25,12 @@ top
 exit
 ps
 exit
+ls
+ps
+clear
+exit
+ls
+cat
+top
+clear
+exit
